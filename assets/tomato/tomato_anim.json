@@ -1,0 +1,56 @@
+{
+    "anims": [
+        {
+            "key": "tomato_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_0"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_1"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_2"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_3"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_4"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_5"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_6"
+                },
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_7"
+                }
+            ]
+        },
+        {
+            "key": "tomato_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "tomato",
+                    "frame": "tomato_animation_1_8"
+                }
+            ]
+        }
+    ]
+}

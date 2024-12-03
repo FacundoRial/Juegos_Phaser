@@ -1,0 +1,125 @@
+{
+    "frames": [
+        {
+            "filename": "tomato_animation_1_0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_1",
+            "frame": {
+                "x": 19,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_2",
+            "frame": {
+                "x": 37,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_3",
+            "frame": {
+                "x": 55,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_4",
+            "frame": {
+                "x": 73,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_5",
+            "frame": {
+                "x": 91,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_6",
+            "frame": {
+                "x": 109,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_7",
+            "frame": {
+                "x": 127,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tomato_animation_1_8",
+            "frame": {
+                "x": 145,
+                "y": 1,
+                "w": 16,
+                "h": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
